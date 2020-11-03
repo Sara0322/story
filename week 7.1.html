@@ -1,15 +1,9 @@
 <!DOCTYPE>
 <html>
 <head>
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
 <style>
-  .choose {
-    border: solid;
-    border-color: yellowgreen;
-    background-color: #adff2f54;
-  }
-  *{
-  font-size:2rem;
-  }
+
 </style>
 <script>
 function choose(){
@@ -60,11 +54,13 @@ method="POST"
 enctype="multipart/form-data"
 name="EmailTestForm">
 
-Name:<br> 
-<input type="text" size="24″ name="VisitorName" placeholder="貴號"><br><br>
-Message:<br> 
+Name:<br/> 
+<input type="text" size="24″ name="VisitorName" placeholder="貴號">
+<br/><br/>
+Message:<br/> 
 <textarea name="VisitorComment" rows="4″ cols="20″ placeholder="不要寄出去">
-</textarea><br><br> 
+</textarea>
+<br/><br/> 
 <input type="submit" value="Submit"> 
 </form>
 </content>

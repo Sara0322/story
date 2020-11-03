@@ -1,0 +1,112 @@
+    h1{
+      color:#44de43;
+      font-size:2em;
+    }
+    h2{
+      color:#56daea;
+      font-size:2em;
+    }
+    h3{
+      color:#9769ec;
+      font-size:2em;
+    }
+    
+    
+     .choose {
+    border: solid;
+    border-color: yellowgreen;
+    background-color: #adff2f54;
+  }
+            
+            
+    .container {
+    width: 100%;
+    }
+    .block {
+    float: left;
+    width: 40%;
+    border: solid red;
+    margin: 1em;
+    }
+    .block_break {
+    clear: left;
+    border: solid green;
+    }
+    #s007{
+    background-color:yellow;
+    border:solid;
+    border-color:blue;
+    }
+            
+            
+    p.title{
+      text-align:center;
+      color:black;
+      font-size:large;
+      font-weight:bold;
+      background-color: yellow;
+    }
+    p.abstract{
+      text-align:center;
+      font-style:italic;
+      color:blue;
+      padding-top:10px;
+      padding-right:80px;
+      padding-bottom:10px;
+      padding-left:80px;
+    }
+  
+    div.top{
+       height:30%;
+    }
+    div.bottom{
+       height:70%;
+       width:100%;
+    }
+    div.left{
+       width:20%;
+       float:left;
+    }
+    div.right{
+       width:60%;
+       float:left;
+    }
+       
+            
+    #s001{
+          color:#44de43;
+          font-size:2.5em;
+         }
+    #s002{
+          color:#8354da;
+          font-size:2.5em;
+         }
+    #s003{
+          color:#30cae4;
+          font-size:2.5em;
+         }
+    #s004{
+          color:#dc7e1b;
+          font-size:2.5em;
+         }
+      
+      
+      /* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+ 
+/* selected link */
+a:active {
+  color: blue;
+}

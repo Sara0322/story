@@ -10,6 +10,14 @@
       color:#9769ec;
       font-size:2em;
     }
+    h4{
+      color:#9769ec;
+      font-size:2em;
+    }
+    h5{
+      color:#9769ec;
+      font-size:2em;
+    }
     
     
      .choose {
@@ -89,7 +97,15 @@
           color:#dc7e1b;
           font-size:2.5em;
          }
-      
+    #s005{
+        color:#38eaba;
+        font-size:2.5em;
+      }
+    #s006{
+        color:#dc1bba;
+        font-size:2.5em;
+      }  
+     
       
       /* unvisited link */
 a:link {

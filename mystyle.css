@@ -1,22 +1,32 @@
     h1{
       color:#44de43;
-      font-size:2em;
+      font-size:2.5em;
+      margin-top:20px;
+      margin-bottom:10px;
     }
     h2{
       color:#56daea;
-      font-size:2em;
+      font-size:2.5em;
+      margin-top:30px;
+      margin-bottom:10px;
     }
     h3{
       color:#9769ec;
-      font-size:2em;
+      font-size:2.5em;
+      margin-top:30px;
+      margin-bottom:10px;
     }
     h4{
-      color:#9769ec;
-      font-size:2em;
+      color:#dc1bba;
+      font-size:2.5em;
+      margin-top:30px;
+      margin-bottom:10px;
     }
     h5{
-      color:#9769ec;
-      font-size:2em;
+      color:#38eaba;
+      font-size:2.5em;
+      margin-top:30px;
+      margin-bottom:10px;
     }
     
     
@@ -110,6 +120,7 @@
       /* unvisited link */
 a:link {
   color: green;
+  font-size:1.5em;
 }
 
 /* visited link */
